@@ -95,7 +95,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1160;
 				LastUpgradeCheck = 1250;
-				ORGANIZATIONNAME = jp.techacademy.taro.kirameki;
+				ORGANIZATIONNAME = jp.techacademy.ara.toshimitsu;
 				TargetAttributes = {
 					DDDC227226EDAC080072392A = {
 						CreatedOnToolsVersion = 11.6;
